@@ -10,7 +10,9 @@ This is a simple number guessing game where the user has to guess a number withi
 - User-friendly interaction
 
 ## 🛠️ Technologies Used
-- Html,CSS,JavaScript
+- HTML
+- CSS
+- Javascript
 
 ## ▶️ How to Run
 1. Clone the repository
